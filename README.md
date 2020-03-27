@@ -1,8 +1,6 @@
 ### Distributed-P2P-Blockchain
 Simple Blockchain System for manipulating virtual Currency
-### P2P Ditributed Blockchain
 
-Its complete P2P nework base Blockchain developed in GO
 ## Installation
 
 Install GO
